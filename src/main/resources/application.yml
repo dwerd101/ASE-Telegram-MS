@@ -1,0 +1,6 @@
+telegrambot:
+  webHookPath: 'https://bc6f-185-13-112-177.ngrok.io'
+  userName: '@ase_digital_graphics_bot'
+  botToken:
+server:
+  port: '5000'
